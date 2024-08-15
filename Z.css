@@ -1,0 +1,52 @@
+.s{
+	width: 400px;
+	margin-right: 20px;
+}
+.dp{
+	
+	width: 500px;
+	height: 65px;
+	margin-left: 500px;
+}
+
+
+.s1:hover{
+	color: blue;
+}
+.ps:hover{
+	color: darkred;
+}
+.ps{
+	color: red;
+}
+
+form{
+	text-align: center;
+
+}
+.i{
+	height: 40px;
+	width: 400px;
+	text-align: center;
+	font-size: 25px;
+	font-family: cursive;
+	border: 3px blue outset;
+
+}
+.t{
+	height: 150px;
+	width: 300px;
+	font-size: 25px;
+	font-family: cursive;
+	text-align: center;
+	border: 3px orange outset;
+}
+.b{
+	height: 50px;
+	width: 100px;
+	background: linear-gradient(red,orange);
+	font-size: 20px;
+}
+@media only screen and(min-width: 480px){
+	
+
